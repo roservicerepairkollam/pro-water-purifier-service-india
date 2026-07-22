@@ -4,4 +4,6 @@ description: This is to provide solution to their water purifiers related brand 
 author: user
 plugins:
     - jekyll-seo-tag
-<meta name="google-site-verification" content="SpWGyNIZy6Ey3gDOzKgXHG0Cj3s2UrEuQZmQdIUMfxs" />
+    webmaster_verifications:
+  google:SpWGyNIZy6Ey3gDOzKgXHG0Cj3s2UrEuQZmQdIUMfxs
+
